@@ -10,7 +10,7 @@ Group Name
 ValhalaGamingStore merupakan sebuah toko voucher yang dimana menjual berbagai macam jenis voucher game secara online</br> </br>
 
 ![2](https://user-images.githubusercontent.com/96428723/150256879-7ba9a5f5-a037-4166-879e-3e9810267683.png) </br> </br>
-![1](https://user-images.githubusercontent.com/96428723/150261720-b61ddc24-d579-4f23-9250-b16ddbde4ff9.png) </br> </br>
+![1](https://user-images.githubusercontent.com/96428723/150261815-1e3acbe0-d03b-40f4-ad4c-370d5b4593d9.png) </br> </br>
 ![3](https://user-images.githubusercontent.com/96428723/150256890-1ca44420-4949-476a-92c5-c86d6457d8fb.png) </br> </br>
 ![4](https://user-images.githubusercontent.com/96428723/150256909-907fc8bf-3d07-41e9-a89a-ff8167bb5227.png) </br> </br>
 ![5](https://user-images.githubusercontent.com/96428723/150256934-0ef1eca1-9181-4425-9608-4c07db5bea93.png) </br> </br>
