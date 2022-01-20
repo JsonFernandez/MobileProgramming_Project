@@ -2,15 +2,15 @@
 Mobile Progamming Project(MOBI6059001)
 
 Group Name
-1. 2301865786 - Jason Fernandes
+1. 2301865786 - Jason Fernandez
 2. 2301946404 - Zaenal Fahmi
 3. 2301875010 - Jessica Hana Christy S  </br> </br> </br> </br>
 
 # ValhalaGamingStore
+ValhalaGamingStore merupakan sebuah toko voucher yang dimana menjual berbagai macam jenis voucher game secara online
 
-
-![1](https://user-images.githubusercontent.com/96428723/150256849-69ec982f-80af-4a60-ab90-f4f903a2fb5d.png) </br> </br>
 ![2](https://user-images.githubusercontent.com/96428723/150256879-7ba9a5f5-a037-4166-879e-3e9810267683.png) </br> </br>
+![1](https://user-images.githubusercontent.com/96428723/150256849-69ec982f-80af-4a60-ab90-f4f903a2fb5d.png) </br> </br>
 ![3](https://user-images.githubusercontent.com/96428723/150256890-1ca44420-4949-476a-92c5-c86d6457d8fb.png) </br> </br>
 ![4](https://user-images.githubusercontent.com/96428723/150256909-907fc8bf-3d07-41e9-a89a-ff8167bb5227.png) </br> </br>
 ![5](https://user-images.githubusercontent.com/96428723/150256934-0ef1eca1-9181-4425-9608-4c07db5bea93.png) </br> </br>
