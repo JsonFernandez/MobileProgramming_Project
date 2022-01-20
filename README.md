@@ -7,7 +7,7 @@ Group Name
 3. 2301875010 - Jessica Hana Christy S  </br> </br> </br> </br>
 
 # ValhalaGamingStore
-ValhalaGamingStore merupakan sebuah toko voucher yang dimana menjual berbagai macam jenis voucher game secara online</br> </br></br> </br>
+ValhalaGamingStore merupakan sebuah toko voucher yang dimana menjual berbagai macam jenis voucher game secara online</br> </br>
 
 ![2](https://user-images.githubusercontent.com/96428723/150256879-7ba9a5f5-a037-4166-879e-3e9810267683.png) </br> </br>
 ![1](https://user-images.githubusercontent.com/96428723/150256849-69ec982f-80af-4a60-ab90-f4f903a2fb5d.png) </br> </br>
