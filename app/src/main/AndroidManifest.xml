@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.hms.valhalastore_huawei">
+    <!--check network permissions-->
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <!--check wifi state-->
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.ValhalaStore">
+        <activity
+            android:name=".OrderComplete"
+            android:exported="false" />
+        <activity
+            android:name=".MyOrder"
+            android:exported="false" />
+        <activity
+            android:name=".mobilelegend.buy774diamond"
+            android:exported="false" />
+        <activity
+            android:name=".mobilelegend.buy503diamond"
+            android:exported="false" />
+        <activity
+            android:name=".mobilelegend.buy367diamond"
+            android:exported="false" />
+        <activity
+            android:name=".mobilelegend.buy256diamond"
+            android:exported="false" />
+        <activity
+            android:name=".genshinimpact.buy3280gs"
+            android:exported="false" />
+        <activity
+            android:name=".genshinimpact.buy1980gs"
+            android:exported="false" />
+        <activity
+            android:name=".genshinimpact.buyBlessingWelkin"
+            android:exported="false" />
+        <activity
+            android:name=".genshinimpact.buy980gs"
+            android:exported="false" />
+        <activity
+            android:name=".valorant.buy1375vp"
+            android:exported="false" />
+        <activity
+            android:name=".valorant.buy1120vp"
+            android:exported="false" />
+        <activity
+            android:name=".valorant.buy700vp"
+            android:exported="false" />
+        <activity
+            android:name=".valorant.buy420vp"
+            android:exported="false" />
+        <activity
+            android:name=".valorant.ListValorant"
+            android:exported="false" />
+        <activity
+            android:name=".mobilelegend.ListMobileLegend"
+            android:exported="false" />
+        <activity
+            android:name=".genshinimpact.ListGenshinImpact"
+            android:exported="false" />
+        <activity
+            android:name=".freefire.buy720diamondff"
+            android:exported="false" />
+        <activity
+            android:name=".freefire.buy1450diamondff"
+            android:exported="false" />
+        <activity
+            android:name=".freefire.buy2180diamondff"
+            android:exported="false" />
+        <activity
+            android:name=".freefire.buy3640diamondff"
+            android:exported="false" />
+        <activity
+            android:name=".freefire.ListFreeFire"
+            android:exported="false" />
+        <activity
+            android:name=".HomeActivity"
+            android:exported="false"/>
+        <activity
+            android:name=".MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <meta-data
+            android:name="com.huawei.hms.client.channel.androidMarket"
+            android:value="false" />
+    </application>
+
+</manifest>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Semester5/MobileProgramming/ValhalaStore/ValhalaStore/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2898148148148148" />
+        <entry key="..\:/Semester5/MobileProgramming/ValhalaStore/ValhalaStore/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2898148148148148" />
+        <entry key="..\:/Semester5/MobileProgramming/ValhalaStore/ValhalaStore/app/src/main/res/layout/activity_buy_1120_vp.xml" value="0.29322916666666665" />
+        <entry key="..\:/Semester5/MobileProgramming/ValhalaStore/ValhalaStore/app/src/main/res/layout/activity_buy_256_diamond.xml" value="0.21614583333333334" />
+        <entry key="..\:/Semester5/MobileProgramming/ValhalaStore/ValhalaStore/app/src/main/res/layout/activity_buy_367_diamond.xml" value="0.2259963768115942" />
+        <entry key="..\:/Semester5/MobileProgramming/ValhalaStore/ValhalaStore/app/src/main/res/layout/activity_buy_503_diamond.xml" value="0.2259963768115942" />
+        <entry key="..\:/Semester5/MobileProgramming/ValhalaStore/ValhalaStore/app/src/main/res/layout/activity_buy_774_diamond.xml" value="0.2259963768115942" />
+        <entry key="..\:/Semester5/MobileProgramming/ValhalaStore/ValhalaStore/app/src/main/res/layout/activity_home.xml" value="0.28396739130434784" />
+        <entry key="..\:/Semester5/MobileProgramming/ValhalaStore/ValhalaStore/app/src/main/res/layout/activity_list_genshin_impact.xml" value="0.1" />
+        <entry key="..\:/Semester5/MobileProgramming/ValhalaStore/ValhalaStore/app/src/main/res/layout/activity_list_my_order.xml" value="0.1" />
+        <entry key="..\:/Semester5/MobileProgramming/ValhalaStore/ValhalaStore/app/src/main/res/layout/activity_loading_screen.xml" value="0.28396739130434784" />
+        <entry key="..\:/Semester5/MobileProgramming/ValhalaStore/ValhalaStore/app/src/main/res/layout/activity_login_register_tabs.xml" value="0.1" />
+        <entry key="..\:/Semester5/MobileProgramming/ValhalaStore/ValhalaStore/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Semester5/MobileProgramming/ValhalaStore/ValhalaStore/app/src/main/res/layout/activity_my_order.xml" value="0.1" />
+        <entry key="..\:/Semester5/MobileProgramming/ValhalaStore/ValhalaStore/app/src/main/res/menu/nav_mainmenu.xml" value="0.29322916666666665" />
+      </map>
+    </option>
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK" />
+</project>
